@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* Variables*/
+/*Import*/
+nav {
+  background: #22fb0d;
+  background: radial-gradient(circle, #22fb0d 0%, #081708 100%, #01860c 100%, #1fbf06 100%); }
+
+h4 {
+  color: #bf0202;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5em; }
+
+.fontInstitucional {
+  color: green;
+  font-family: 'Poppins', sans-serif; }
+
+.fontH3 {
+  color: #169c6a;
+  font-size: 2.5em;
+  font-family: 'Poppins', sans-serif; }
+
+.fontCoberturas {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5em;
+  color: #039947; }
+
+.imgCoberturas {
+  border-radius: 10px;
+  border: solid;
+  margin: 10px;
+  padding: 10px;
+  border-width: 2px;
+  border-color: green;
+  border-bottom: 30px; }
+
+.gridCoberturas {
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  grid-template-rows: 20vh 20vh 20vh 20vh;
+  grid-column-gap: 3em;
+  grid-row-gap: 20em; }
+
+.logoSuper {
+  border-radius: 10px;
+  width: 30vh;
+  height: 50%;
+  margin: 5px; }
+
+.fontFooter {
+  font-size: 1em;
+  color: white;
+  font-family: 'Poppins', sans-serif; }
+
+.logoWp {
+  display: flex;
+  width: 10vh; }
+
+.fontFooter2 {
+  color: white; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+/* Anidación*/
